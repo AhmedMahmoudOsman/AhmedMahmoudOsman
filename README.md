@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Wed design And Web Development**
+- 🤝 I’m looking for help with ** Web Design and  Development**
 
 - 💬 Ask me about **HTML,CSS,React,JavaScript**
 
