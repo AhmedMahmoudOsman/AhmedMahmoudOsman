@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmahmoudosman&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmahmoudosman" /> </p>
 
-- 🔭 I’m currently working on **Daily Scoop Blog**
+- 🔭 I’m currently working on **Blog Capstone Project**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
