@@ -43,7 +43,16 @@
 
 <br/>
 <hr/>
+
+<div align=center>
+
+<h1> 🛠️ My Contribution 🛠️</h1>
+
 ![snake gif](https://github.com/AhmedMahmoudOsman/AhmedMahmoudOsman/blob/output/github-snake-dark.svg)
+    
+</div>
+
+
 
 <hr/>
 
