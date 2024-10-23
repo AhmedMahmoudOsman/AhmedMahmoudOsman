@@ -43,6 +43,10 @@
 
 <br/>
 <hr/>
+![snake gif](https://github.com/AhmedMahmoudOsman/AhmedMahmoudOsman/blob/output/github-snake-dark.svg)
+
+<hr/>
+
 
 
 
